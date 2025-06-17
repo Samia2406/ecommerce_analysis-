@@ -10,10 +10,9 @@ This self-led project demonstrates end-to-end analytical thinking — from prepa
 
 | File                             | Description |
 |----------------------------------|-------------|
-| `data_cleaning.sql`              | Cleans and standardizes all raw tables (dates, discounts, GST, etc.) |
-| `ecommerce_analysis.sql`         | Contains SQL queries analyzing KPIs, retention, churn, profitability |
-| `ecommerce_marketing_dashboard.pbix` | Interactive Power BI dashboard visualizing key insights from SQL |
-| `merged_tables` (SQL view)       | Combines cleaned tables into one queryable dataset used across analysis |
+| `data_cleaning.sql`              | Cleans and standardizes all raw tables (dates, discounts, GST, etc.) |Combines cleaned tables into one queryable dataset used across analysis
+| `ecommerce_analysis.sql`         | Contains SQL queries analyzing KPIs, retention, churn, profitability 
+| `ecommerce_marketing_dashboard.pbix` | Interactive Power BI dashboard visualizing key insights from SQL 
 
 ---
 
